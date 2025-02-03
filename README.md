@@ -1,7 +1,7 @@
 ![logo](https://github.com/Laksh151098/Lakshya_Vats_15/blob/main/logo.png)
 <h1 align="center">Hi 👋, I'm Lakshya Vats</h1>
-<h2 align="center">💫 About Me:</h2>
-<h3 align="center">Hello! I'm Lakshya Vats, a passionate Data Analyst with a passion for ensuring high-quality software through automation and testing. I hold a Master's degree in Computer Application from Chandigarh University (2023). My tech stack includes Python, MySql, Excel, Power BI, SAP. Outside of work, I enjoy traveling and gaming. Thank you for visiting my profile!</h3>
+<h2 align="left">💫 About Me:</h2>
+<h3 align="left">Hello! I'm Lakshya Vats, a passionate Data Analyst with a passion for ensuring high-quality software through automation and testing. I hold a Master's degree in Computer Application from Chandigarh University (2023). My tech stack includes Python, MySql, Excel, Power BI, SAP. Outside of work, I enjoy traveling and gaming. Thank you for visiting my profile!</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
